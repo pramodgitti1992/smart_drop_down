@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import AccordionComponent from './common/AccordionComponent'
-import { filterCountries } from './utils/Utils';
+import { filterCountries } from '../utils/Utils';
 
 class SmartDropDownSearch extends Component {
   constructor(props){
